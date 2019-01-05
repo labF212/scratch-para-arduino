@@ -1,4 +1,4 @@
-# scratch-para-arduino
+# Scratch para Arduino
 
 Bem Vindo ao curso de Verão "Programação de sensores usando o Scratch 2.0".
 
